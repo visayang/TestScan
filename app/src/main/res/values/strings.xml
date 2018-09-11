@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QR_CodeScan</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+
+
+    <!--权限 相关-->
+    <string name="title_dialog">友情提示</string>
+    <string name="title_dialog2">友情提示2222</string>
+    <string name="message_permission_failed">尚未获取SD卡读取权限</string>
+    <string name="message_permission_rationale">获取SD卡读取权限</string>
+    <string name="btn_dialog_yes_permission">去设置</string>
+    <string name="btn_dialog_no_permission">取消</string>
+    <string name="message_setting_back">用户从设置回来了</string>
+    <string name="message_post_succeed">获取SD卡权限成功</string>
+    <string name="message_post_failed">获取SD卡权限失败22</string>
+
+
+    <string name="title_dialog3">友情提示</string>
+    <string name="message_permission_rationale3">获取SD卡读取权限</string>
+    <string name="message_post_succeed3">获取拍照权限成功</string>
+    <string name="message_post_failed3">获取拍照权限失败</string>
+    <string name="message_permission_failed3">尚未获取拍照权限</string>
+
+
+</resources>
